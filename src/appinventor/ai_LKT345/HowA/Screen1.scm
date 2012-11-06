@@ -1,0 +1,4 @@
+#|
+$JSON
+{"YaVersion":"62","Source":"Form","Properties":{"$Name":"Screen1","$Type":"Form","$Version":"8","Uuid":"0","ScreenOrientation":"portrait","Title":"HowA","VersionCode":"0","VersionName":"0.1","$Components":[{"$Name":"labelTitleCalendar","$Type":"Label","$Version":"2","Uuid":"-543389948","FontBold":"True","FontSize":"20.0","Text":"Calendario","TextAlignment":"1","Width":"-2"},{"$Name":"labelListCalendar","$Type":"Label","$Version":"2","Uuid":"-732041160","Width":"-2","Height":"500"},{"$Name":"addActivity","$Type":"Button","$Version":"4","Uuid":"-402967465","Text":"Agregar una Actividad"},{"$Name":"changeActivity","$Type":"Button","$Version":"4","Uuid":"479957880","Text":"Cambiar una Actividad"},{"$Name":"removeActivity","$Type":"Button","$Version":"4","Uuid":"-1132787848","Text":"Quitar una Actividad"}]}}
+|#
